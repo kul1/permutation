@@ -38,3 +38,5 @@ ruby permutation.rb
 ~~~
 
 ###  Thank you
+
+(c) 2019 by Prateep Kul
